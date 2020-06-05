@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Never Too Young To Become A Billionaire",
+        "publisher": "Gramedia",
+        "year":2015,
+        "description":"buku yang bisa dibaca siapa saja",
+        "GenreId":1,
+        "path":"dummy1.pdf",
+        "uploadedBy":"lukmanul123"
+    },
+    {
+        "name": "Merry Riana: Mimpi Sejuta Dolar",
+        "publisher": "Merry Riana",
+        "year":2001,
+        "description":"buku yang memotivasi kaula muda",
+        "GenreId":2,
+        "path":"dummy2.pdf",
+        "uploadedBy":"lukmanul123"
+    },
+    {
+        "name": "Think and Grow Rich",
+        "publisher": "Napoleon Hill",
+        "year":1937,
+        "description":"buku ini menjadikan kita semua kaya",
+        "GenreId":3,
+        "path":"dummy3.pdf",
+        "uploadedBy":"lukmanul123"
+    },
+    {
+        "name": "buku pintar belajar",
+        "publisher": "gramedia",
+        "year": 2020,
+        "description":"penulis sangat membuat anda jadi pintar",
+        "GenreId":4,
+        "path":"dummy4.pdf",
+        "uploadedBy":"gigih11"
+    },
+    {
+        "name": "The Magic of Thinking Big",
+        "publisher": "David J. Schwartz",
+        "year":1959,
+        "description":"buku bagus sekali sesuai dengan saya cari selama ini",
+        "GenreId":5,
+        "path":"dummy5.pdf",
+        "uploadedBy":"gigih11"
+    }
+]
